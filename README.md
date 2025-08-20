@@ -1,40 +1,47 @@
-# Hi there! I'm Juan David 👋
+# 👋 Hello there! I'm Juan David
 
-A Java Developer, Software Engineering student at Politécnico Grancolombiano, currently taking the Java Senior IA program at DevSenior.
+I'm a Software Engineering student at **Politécnico Grancolombiano**, currently in my fifth semester, with a strong focus on backend development and scalable system design. My background in logistics and operations management gives me a unique business-oriented perspective, allowing me to build software that is not only technically sound but also aligned with real-world needs.
 
 ---
 
-## Skills & Technologies
+## 🎓 Education & Certifications
 
-- **Backend Development**: Java, Spring Boot, OOP, SOLID, Design Patterns.
-- **Database Management**: SQL, **MySQL**.
-- **Containerization**: **Docker**.
-- **Software Design**: UML, Software Architecture, Modular Design.
-- **Tools & Workflow**: Git, GitHub, Linux.
-- **Testing**: Unit Testing, Integration Testing.
+- **B.Sc. in Software Engineering** – Politécnico Grancolombiano *(In Progress – Fifth Semester)*  
+- **IBM Full-Stack JavaScript Developer** – Coursera *(In Progress)*  
+  🔗 [Verified Credential](https://www.credly.com/badges/ce13b35c-34ed-4d31-899b-0b492aaf93b6/linked_in_profile)  
+- **Java Senior IA Program** – DevSenior *(In Progress)*
+
+---
+
+## 💻 Skills & Technologies
+
+- **Backend Development**: Java, Spring Boot, OOP, SOLID Principles, Clean Code  
+- **Database Management**: SQL, MySQL  
+- **Containerization**: Docker, docker-compose  
+- **Software Design**: UML, Modular Architecture  
+- **Tools & Workflow**: Git, GitHub, IntelliJ IDEA, VS Code, Maven, Linux Terminal  
+- **Testing**: Unit Testing, Integration Testing
 
 ---
 
 ## 📂 Featured Projects
 
-- **User Management System in Java**
-  A robust system focused on user management, designed with a modular architecture. The project includes bilingual documentation, UML diagrams, and a rigorous focus on data security and privacy.
+### 🔹 User Management System (CRUD)  
+**Repo**: [WaterReport-SpringBoot-DB](https://github.com/DJAngel973/WaterReport-SpringBoot-DB)  
+A RESTful API built with Java and Spring Boot to manage user reports. The system features a modular design with full CRUD functionality and data validation. The entire project is containerized with Docker and docker-compose to ensure a consistent and portable environment.
 
-- **OOP Game**
-  A simple educational game developed with Object-Oriented Programming (OOP) principles. The project uses inheritance, polymorphism, and abstraction to create a game experience with increasing levels of complexity.
-
-- **WaterReport-SpringBoot-DB**
-  A microservice application that generates global water consumption reports.
-  - **Technologies:** Java, Spring Boot, **MySQL**, and **Docker**.
-  - **Function:** It connects to a MySQL database via Docker to process and present data obtained from a public API.
+### 🔹 Educational Math Game in Java  
+**Repo**: [Turing-OOP](https://github.com/DJAngel973/Touring-OOP)  
+An interactive desktop game designed to reinforce basic math skills. Built with Object-Oriented Programming (OOP) principles such as inheritance and polymorphism to create a maintainable and engaging experience.
 
 ---
 
-## Current Learning Goals
+## 🎯 Current Learning Goals
 
-- Apply **scalable architecture** principles in microservice projects.
-- Deepen my knowledge of relational database design and optimization.
-- Master the lifecycle of a Full Stack project with JavaScript and frameworks like React.
+- Master the lifecycle of a full-stack project using JavaScript and frameworks like React  
+- Deepen my understanding of relational database design and optimization  
+- Apply scalable architecture principles in microservice-based applications  
+- Improve my technical English communication for international collaboration
 
 ---
 
