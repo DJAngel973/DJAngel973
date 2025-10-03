@@ -4,6 +4,20 @@ I'm a Software Engineering student at **Politécnico Grancolombiano**, currently
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![DJAngel973's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
 ## 🎓 Education & Certifications
 
 - **B.Sc. in Software Engineering** – Politécnico Grancolombiano *(In Progress – Fifth Semester)*  
