@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Juan David
 
-I'm a Software Engineering student at **Politécnico Grancolombiano**, currently in my fifth semester, with a strong focus on backend development and scalable system design. My background in logistics and operations management gives me a unique business-oriented perspective, allowing me to build software that is not only technically sound but also aligned with real-world needs.
+I'm a fifth-semester Software Engineering student at **Politécnico Grancolombiano** with a passion for crafting robust backend solutions. Currently, I'm specializing in **Spring Boot development**, building RESTful APIs and implementing **containerization with Docker** to create scalable, portable applications. I'm driven by the challenge of transforming complex business problems into secure, maintainable systems that follow SOLID principles and industry best practices.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a Software Engineering student at **Politécnico Grancolombiano**, currently
   
 ![DJAngel973's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=algolia&hide_border=true&bg_color=0D1117)
 
@@ -39,8 +39,7 @@ I'm a Software Engineering student at **Politécnico Grancolombiano**, currently
 ## 🎓 Education & Certifications
 
 - **B.Sc. in Software Engineering** – Politécnico Grancolombiano *(In Progress – Fifth Semester)*  
-- **IBM Full-Stack JavaScript Developer** – Coursera *(In Progress)*  
- 
+- **IBM Full-Stack JavaScript Developer** – Coursera *(In Progress)*
 - **Java Senior IA Program** – DevSenior *(In Progress)*
 
 ---
