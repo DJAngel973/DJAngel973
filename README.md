@@ -8,16 +8,18 @@ I'm a Software Engineering student at **Politécnico Grancolombiano**, currently
 
 <div align="center">
   
-![DJAngel973's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![DJAngel973's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117))
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=algolia&hide_border=true&bg_color=0D1117)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -26,6 +28,9 @@ I'm a Software Engineering student at **Politécnico Grancolombiano**, currently
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DJAngel973&theme=react-dark&bg_color=0D1117&color=79C0FF&line=58A6FF&point=FFFFFF)
 
 </div>
 
@@ -35,7 +40,7 @@ I'm a Software Engineering student at **Politécnico Grancolombiano**, currently
 
 - **B.Sc. in Software Engineering** – Politécnico Grancolombiano *(In Progress – Fifth Semester)*  
 - **IBM Full-Stack JavaScript Developer** – Coursera *(In Progress)*  
-  🔗 [Verified Credential](https://www.credly.com/badges/ce13b35c-34ed-4d31-899b-0b492aaf93b6/linked_in_profile)  
+ 
 - **Java Senior IA Program** – DevSenior *(In Progress)*
 
 ---
