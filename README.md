@@ -38,9 +38,10 @@ I'm a fifth-semester Software Engineering student at **Politécnico Grancolombia
 
 ## 🎓 Education & Certifications
 
-- **B.Sc. in Software Engineering** – Politécnico Grancolombiano *(In Progress – Fifth Semester)*  
+- **B.Sc. in Software Engineering** – Politécnico Grancolombiano *(In Progress – Fifth Semester)*
+- **IBM Java Developer with java, Spring Boot & Spring Framework** – Coursera  *(In Progress)*
 - **IBM Full-Stack JavaScript Developer** – Coursera *(In Progress)*
-- **Java Senior IA Program** – DevSenior *(In Progress)*
+
 
 ---
 
@@ -52,6 +53,7 @@ I'm a fifth-semester Software Engineering student at **Politécnico Grancolombia
 - **Software Design**: UML, Modular Architecture  
 - **Tools & Workflow**: Git, GitHub, IntelliJ IDEA, VS Code, Maven, Linux Terminal  
 - **Testing**: Unit Testing, Integration Testing
+- **Frontend**: HTML, CSS, JavaScript
 
 ---
 
