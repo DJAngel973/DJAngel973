@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Juan Garzón
@@ -210,4 +209,3 @@ Personal Notes:
 - Location: Bogotá, Colombia
 - Open to: Remote opportunities
 -->
-```
