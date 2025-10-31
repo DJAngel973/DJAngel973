@@ -1,4 +1,3 @@
-<div align="center">
 
 # 👋 Hi, I'm Juan Garzón
 
@@ -8,7 +7,6 @@
 [![Location](https://img.shields.io/badge/Location-Bogot%C3%A1%2C%20Colombia-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Bogot%C3%A1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)
 
-</div>
 
 ---
 
@@ -168,7 +166,6 @@ I'm actively seeking opportunities as a **Junior Java Backend Developer** specia
 
 ---
 
-<div align="center">
 
 *"Software quality lives not just in code, but in how it's communicated"*
 
@@ -178,7 +175,6 @@ I'm actively seeking opportunities as a **Junior Java Backend Developer** specia
 
 **Thanks for visiting! ⭐ Star repositories if you find them interesting!**
 
-</div>
 
 <!-- 
 Personal Notes:
