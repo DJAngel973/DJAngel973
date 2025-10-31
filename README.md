@@ -166,6 +166,7 @@ I'm actively seeking opportunities as a **Junior Java Backend Developer** specia
 
 ---
 
+<div align="center">
 
 *"Software quality lives not just in code, but in how it's communicated"*
 
@@ -175,13 +176,4 @@ I'm actively seeking opportunities as a **Junior Java Backend Developer** specia
 
 **Thanks for visiting! ⭐ Star repositories if you find them interesting!**
 
-
-<!-- 
-Personal Notes:
-- Currently completing IBM Java Developer certification
-- Focus: Backend development with Spring Boot
-- Tech stack: Java, Spring Boot, MySQL, Docker
-- Learning: API integration, frontend basics
-- Location: Bogotá, Colombia
-- Open to: Remote opportunities
--->
+</div>
