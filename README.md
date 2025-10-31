@@ -84,19 +84,10 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+![DJAngel973's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=algolia&hide_border=true&bg_color=0D1117)
-
-</div>
 
 ---
 
