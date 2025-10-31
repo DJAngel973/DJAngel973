@@ -84,11 +84,13 @@
 
 ## 📊 GitHub Statistics
 
-![DJAngel973's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=dark&hide_border=true)
 
+</div>
 ---
 
 ## 🎯 Currently Learning
