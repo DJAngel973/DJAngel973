@@ -91,20 +91,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=dark&hide_border=true)
 
 </div>
----
-
-## 🎯 Currently Learning
-
-```java
-List<String> currentFocus = Arrays.asList(
-    "Spring Boot & RESTful API Development",
-    "Database Design & MySQL Optimization",
-    "Docker & Containerization",
-    "Fetch API & Axios for Frontend Integration",
-    "Exception Handling & Logging Strategies",
-    "Clean Code & Design Patterns"
-);
-```
 
 ---
 
@@ -166,8 +152,6 @@ I'm actively seeking opportunities as a **Junior Java Backend Developer** specia
 *"Software quality lives not just in code, but in how it's communicated"*
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=DJAngel973&color=blue&style=flat-square&label=Profile+Views)
 
 **Thanks for visiting! ⭐ Star repositories if you find them interesting!**
 
