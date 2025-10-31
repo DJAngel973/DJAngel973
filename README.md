@@ -74,16 +74,6 @@
 
 ---
 
-### 📦 [LogisticsShippingRates - Business Logic](https://github.com/DJAngel973/LogisticsShippingRates)
-**Shipping cost calculation system**
-- 📦 Real-world business logic implementation
-- 🔢 Dynamic pricing algorithms
-- ✅ Input validation and error handling
-
-**Tech:** `Java` `OOP` `Algorithms`
-
----
-
 ### ⚠️ [Exceptions & Logs](https://github.com/DJAngel973/exeptions-and-logs)
 **Custom exception handling and logging system**
 - ⚠️ Custom exception classes
@@ -94,27 +84,19 @@
 
 ---
 
-### 🌐 [Portfolio Website](https://github.com/DJAngel973/Portafolio-website)
-**Personal portfolio built with vanilla web technologies**
-- 🎨 Responsive design with HTML5 & CSS3
-- ⚡ Interactive features with JavaScript
-- 📱 Mobile-first approach
-
-**Tech:** `HTML5` `CSS3` `JavaScript`
-
-[➡️ **View All Projects**](https://github.com/DJAngel973?tab=repositories)
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=radical&hide_border=true&include_color=0D1117_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=radical&hide_border=true&langs_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DJAngel973&theme=radical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DJAngel973&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=algolia&hide_border=true&bg_color=0D1117)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
