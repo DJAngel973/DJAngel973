@@ -94,7 +94,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=algolia&hide_border=true&bg_color=0D1117)
 
 </div>
 
