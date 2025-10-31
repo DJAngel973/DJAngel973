@@ -94,7 +94,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DJAngel973&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=dark&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://git.io/streak-stats)
 
 </div>
 
