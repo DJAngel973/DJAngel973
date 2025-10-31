@@ -86,13 +86,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=radical&hide_border=true&include_color=0D1117_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=radical&hide_border=true&langs_color=0D1117)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DJAngel973&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=algolia&hide_border=true&bg_color=0D1117)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DJAngel973&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
 
 </div>
 
