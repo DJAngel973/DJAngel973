@@ -1,4 +1,4 @@
-
+<div align="center">
 # 👋 Hi, I'm Juan Garzón
 
 ### 💻 Java Backend Developer | Software Engineering Student
@@ -7,6 +7,7 @@
 [![Location](https://img.shields.io/badge/Location-Bogot%C3%A1%2C%20Colombia-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Bogot%C3%A1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)
 
+</div>
 
 ---
 
