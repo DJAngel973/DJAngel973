@@ -10,7 +10,6 @@
 </div>
 
 ---
-<div align="center">
 
 ## 🚀 About Me
 
@@ -21,7 +20,7 @@
 🌱 Learning **RESTful APIs**, **Database Design**, and **Enterprise Architecture**  
 🇨🇴 Based in Bogotá, Colombia | **Open to remote opportunities worldwide**  
 🎯 Goal: Build scalable backend systems with clean, maintainable code
-</div>
+
 ---
 
 ## 🛠️ Tech Stack
