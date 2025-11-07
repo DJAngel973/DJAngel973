@@ -110,17 +110,6 @@
 
 ---
 
-## 📫 Let's Connect
-
-I'm actively seeking opportunities as a **Junior Java Backend Developer** specializing in **Spring Boot** development.
-
-- 📧 **Email:** [angel.djuancho@gmail.com](mailto:angel.djuancho@gmail.com)
-- 🌍 **Location:** Bogotá, Colombia 🇨🇴
-- 💼 **Open to:** Remote opportunities worldwide
-- 🕐 **Availability:** Full-time positions
-
----
-
 ## 💡 What I Bring
 
 - ✅ **Solid Java fundamentals** with OOP expertise
