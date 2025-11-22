@@ -96,48 +96,6 @@
 
 ---
 
-## 🎓 Certifications & Courses
-
-- 📜 **IBM Java Developer Professional Certificate** *(In Progress)*
-  - Introduction to Software Engineering
-  - Java Programming for Beginners
-  - Object-Oriented Programming in Java
-
-- 📜 **IBM Full Stack JavaScript Developer** *(In Progress)*
-  - Introduction to HTML, CSS & JavaScript
-  - Getting Started with Git and GitHub
-  - JavaScript Programming Essentials
-
----
-
-## 💡 What I Bring
-
-- ✅ **Solid Java fundamentals** with OOP expertise
-- ✅ **Spring Boot** experience with real-world projects
-- ✅ **Database design** and optimization with MySQL
-- ✅ **Docker** for development environments
-- ✅ **RESTful API** design and implementation
-- ✅ **Problem-solving** mindset with clean code practices
-- ✅ **Continuous learner** staying updated with industry trends
-- ✅ **Team collaboration** through Git workflows
-
----
-
-## 🌱 My Development Journey
-
-```
-2025 Progress:
-├── ✅ Mastered Java fundamentals
-├── ✅ Built Spring Boot applications
-├── ✅ Learned Docker containerization
-├── ✅ Implemented RESTful APIs
-├── ✅ Applied OOP design patterns
-├── 🔄 Learning frontend integration (Fetch/Axios)
-└── 🎯 Preparing for first tech role
-```
-
----
-
 <div align="center">
 
 *"Software quality lives not just in code, but in how it's communicated"*
