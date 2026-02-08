@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Juan Garzón
 
-### 💻 Java Backend Developer | Software Engineering Student
+### 💻 Software Developer | Backend & Full Stack
 
 [![Email](https://img.shields.io/badge/Email-angel.djuancho%40gmail.com-red?style=flat&logo=gmail)](mailto:angel.djuancho@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bogot%C3%A1%2C%20Colombia-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Bogot%C3%A1)
@@ -12,19 +12,28 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 Software Engineering student at **Politécnico Grancolombiano**  
-💻 Focused on **Java Backend Development** with **Spring Boot**  
-📚 Currently completing **IBM Java Developer Professional Certificate**  
-🐳 Working with **Docker** for containerization  
-🌱 Learning **RESTful APIs**, **Database Design**, and **Enterprise Architecture**  
-🇨🇴 Based in Bogotá, Colombia | **Open to remote opportunities worldwide**  
-🎯 Goal: Build scalable backend systems with clean, maintainable code
+**6th semester** Software Engineering student at **Politécnico Grancolombiano**  
+Backend Developer specializing in **Java**, **Python**, and **JavaScript**  
+**Transitioning into Cybersecurity**: Combining secure development with defensive security operations  
+
+### Development Skills
+- Building **scalable backend systems** with **Spring Boot** and **RESTful APIs**
+- Implementing **secure coding practices** and **OWASP guidelines**
+- Containerization and deployment with **Docker**
+
+### Cybersecurity Path
+- Active training: **Cybersecurity** (Coursera), **Blue Team Operations** (Securiters)
+- Career trajectory: **Backend Developer** → **SOC Analyst** → **Security Engineer/Forensics Specialist**
+- Focus areas: **Blue Team**, **Security Operations Center (SOC)**, **Incident Response**, **Digital Forensics**
+- Building the technical foundation to become an **Ethical Hacker** and **Cybersecurity Professional**
+
+> *"I don't just write code—I write secure code. My goal: protect systems as a cybersecurity defender."*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,41 +59,41 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🌟 [WaterReport - Spring Boot REST API](https://github.com/DJAngel973/WaterReport-SpringBoot-DB)
+### [WaterReport - Spring Boot REST API](https://github.com/DJAngel973/WaterReport-SpringBoot-DB)
 **Backend system for water consumption reporting**
-- 🚀 Built with **Spring Boot** & **MySQL**
-- 🐳 **Dockerized** database setup
-- 📊 RESTful API with full CRUD operations
-- 🏗️ Layered architecture (Controller → Service → Repository)
-- 💾 Spring Data JPA for database persistence
+-  Built with **Spring Boot** & **MySQL**
+-  **Dockerized** database setup
+-  RESTful API with full CRUD operations
+-  Layered architecture (Controller → Service → Repository)
+-  Spring Data JPA for database persistence
 
 **Tech:** `Java` `Spring Boot` `MySQL` `Docker` `Spring Data JPA` `REST API`
 
 ---
 
-### 🚗 [Touring - OOP Travel System](https://github.com/DJAngel973/Touring-OOP)
+### [Touring - OOP Travel System](https://github.com/DJAngel973/Touring-OOP)
 **Object-oriented travel management system**
-- 🧩 Applied OOP principles (Encapsulation, Inheritance, Polymorphism)
-- 🎯 Design patterns implementation
-- 📦 Modular architecture
+-  Applied OOP principles (Encapsulation, Inheritance, Polymorphism)
+-  Design patterns implementation
+-  Modular architecture
 
 **Tech:** `Java` `OOP` `Design Patterns`
 
 ---
 
-### ⚠️ [Exceptions & Logs](https://github.com/DJAngel973/exeptions-and-logs)
+### [Exceptions & Logs](https://github.com/DJAngel973/exeptions-and-logs)
 **Custom exception handling and logging system**
-- ⚠️ Custom exception classes
-- 📝 Logging best practices
-- 🛡️ Error handling patterns
+-  Custom exception classes
+-  Logging best practices
+-  Error handling patterns
 
 **Tech:** `Java` `Exception Handling` `Logging`
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
