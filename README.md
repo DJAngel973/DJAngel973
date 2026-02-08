@@ -2,11 +2,10 @@
 
 # 👋 Hi, I'm Juan Garzón
 
-### 💻 Software Developer | Backend & Full Stack
+### Software Engineering Student | Aspiring Cybersecurity Professional
 
-[![Email](https://img.shields.io/badge/Email-angel.djuancho%40gmail.com-red?style=flat&logo=gmail)](mailto:angel.djuancho@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bogot%C3%A1%2C%20Colombia-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Bogot%C3%A1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-demranz.1%40proton.me-red?style=flat&logo=protonmail)](mailto:demranz.1@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_David_Garzón-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-david-garz%C3%B3n-362a3772/)
 
 </div>
 
