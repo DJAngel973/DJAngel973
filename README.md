@@ -96,9 +96,9 @@ Backend Developer specializing in **Java**, **Python**, and **JavaScript**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJAngel973&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DJAngel973&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DJAngel973&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
