@@ -14,8 +14,9 @@
 ## About Me
 
 **6th semester** Software Engineering student at **Politécnico Grancolombiano**  
-Backend Developer specializing in **Java**, **Python**, and **JavaScript**  
+Backend Developer focused on **Java**, **Python**, and **JavaScript**  
 **Transitioning into Cybersecurity**: Combining secure development with defensive security operations  
+Passionate about secure software development, automation, and defensive security.
 
 ### Development Skills
 - Building **scalable backend systems** with **Spring Boot** and **RESTful APIs**
@@ -42,6 +43,8 @@ Backend Developer specializing in **Java**, **Python**, and **JavaScript**
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps/Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Frontend
@@ -60,6 +63,8 @@ Backend Developer specializing in **Java**, **Python**, and **JavaScript**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -104,8 +109,6 @@ Backend Developer specializing in **Java**, **Python**, and **JavaScript**
 ![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DJAngel973&theme=github_dark)
 
 ![Resumen](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJAngel973&theme=github_dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DJAngel973&theme=github_dark)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
