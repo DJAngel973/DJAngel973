@@ -96,7 +96,9 @@ Backend Developer specializing in **Java**, **Python**, and **JavaScript**
 
 <div align="center">
 
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> </p>
+[Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJAngel973&theme=github_dark)
+
+[States](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DJAngel973&theme=github_dark)
 
 </div>
 
