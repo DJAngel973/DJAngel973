@@ -75,7 +75,7 @@ Passionate about writing code that is not just functional — but **secure by de
 
 ---
 
-### 🐚 [Bash Scripts - Cybersecurity & Automation](https://github.com/DJAngel973/bash-scripts-learning)
+### [Bash Scripts - Cybersecurity & Automation](https://github.com/DJAngel973/bash-scripts-learning)
 **10 essential Bash scripts for cybersecurity and system administration**
 - Reconnaissance automation, log analysis, file validation
 - `nmap` wrapper for network scanning automation
@@ -102,8 +102,12 @@ Passionate about writing code that is not just functional — but **secure by de
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend (Basic)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -139,6 +143,18 @@ Passionate about writing code that is not just functional — but **secure by de
 | DevSecOps practices | Self-study + applied in Secure-Wallet-API | 🔄 In progress |
 | English B1 Intermediate | Duolingo | 🔄 In progress |
 | Software Engineering | Politécnico Grancolombiano (6th semester) | 🔄 In progress |
+
+---
+
+## Education & Certifications
+
+| Course / Degree | Institution | Status |
+|---|---|---|
+| Software Engineering | Politécnico Grancolombiano | 🔄 6th semester |
+| Java Developer | IBM / Coursera | ⏸️ Paused — returning soon |
+| Docker: De cero a experto | Udemy | 🔄 In progress |
+| eJPT — Junior Penetration Tester | Securiters Academy | 🔄 In progress |
+| Kubernetes | Udemy | ⏳ Pending |
 
 ---
 
