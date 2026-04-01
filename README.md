@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Juan Garzón
 
-### Software Engineering Student | Aspiring Cybersecurity Professional
+### Software Engineering Student | Backend Developer | Security-Minded Builder
 
 [![Email](https://img.shields.io/badge/Email-demranz.1%40proton.me-red?style=flat&logo=protonmail)](mailto:demranz.1@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_David_Garzón-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-david-garz%C3%B3n-362a3772/)
@@ -14,45 +14,107 @@
 ## About Me
 
 **6th semester** Software Engineering student at **Politécnico Grancolombiano**  
-Backend Developer focused on **Java**, **Python**, and **JavaScript**  
-**Transitioning into Cybersecurity**: Combining secure development with defensive security operations  
-Passionate about secure software development, automation, and defensive security.
+Backend Developer building **secure systems** with Java, Spring Boot, and Python  
+Passionate about writing code that is not just functional — but **secure by design**
 
-### Development Skills
-- Building **scalable backend systems** with **Spring Boot** and **RESTful APIs**
-- Implementing **secure coding practices** and **OWASP guidelines**
-- Containerization and deployment with **Docker**
+**Career goal:** Backend Developer → DevSecOps Engineer  
+**Security focus:** OWASP, secure coding, JWT, threat modeling  
+**Currently studying:** eJPT certification at **Securiters Academy** (Marta Barrio)  
+**Building:** [Secure-Wallet-API](https://github.com/DJAngel973/Secure-Wallet-API) — portfolio project applying OWASP Top 10 and DevSecOps practices
 
-### Cybersecurity Path
-- Active training: **Cybersecurity** (Coursera), **Blue Team Operations** (Securiters)
-- Career trajectory: **Backend Developer** → **SOC Analyst** → **Security Engineer/Forensics Specialist**
-- Focus areas: **Blue Team**, **Security Operations Center (SOC)**, **Incident Response**, **Digital Forensics**
-- Building the technical foundation to become an **Ethical Hacker** and **Cybersecurity Professional**
+> *"I don't just write code — I write secure code. Security is not a feature, it's a foundation."*
 
-> *"I don't just write code—I write secure code. My goal: protect systems as a cybersecurity defender."*
+---
+
+## Featured Projects
+
+### [Secure Wallet API](https://github.com/DJAngel973/Secure-Wallet-API) ⭐ *Main project*
+**Educational portfolio project — applying OWASP Top 10, DevSecOps practices, and secure backend architecture in a real-world financial domain**
+
+> *Actively under development — focused on learning secure API design, CI/CD automation, and PostgreSQL persistence*
+
+- JWT authentication + refresh token rotation & **2FA/TOTP**
+- **BCrypt** password hashing, rate limiting, brute-force protection
+- Role-based access control (`USER`, `ADMIN`, `MANAGER`)
+- **OWASP Dependency Check** + **CodeQL** on every PR (GitHub Actions CI/CD)
+- ACID-guaranteed transactions with PostgreSQL 16
+- Full audit trail of all sensitive operations
+
+**Tech:** `Java 17` `Spring Boot 3` `Spring Security` `PostgreSQL` `Docker` `GitHub Actions` `OWASP` `CodeQL`
+
+---
+
+### [WaterReport - Spring Boot REST API](https://github.com/DJAngel973/WaterReport-SpringBoot-DB)
+**Backend system for water consumption reporting**
+- Built with **Spring Boot** & **MySQL**, fully **Dockerized**
+- RESTful API with full CRUD operations
+- Layered architecture (Controller → Service → Repository)
+- Spring Data JPA for database persistence
+
+**Tech:** `Java` `Spring Boot` `MySQL` `Docker` `Spring Data JPA` `REST API`
+
+---
+
+### [Final Project IBM - Spring Boot MVC](https://github.com/DJAngel973/Final-Project-IBM-SpringBoot)
+**Final project from the IBM Java Engineer course**
+- Full MVC architecture with Spring Boot
+- Built as the culmination of the IBM Java Backend curriculum
+
+**Tech:** `Java` `Spring Boot` `MVC` `Maven`
+
+---
+
+### [Exceptions & Logs - Service Order API](https://github.com/DJAngel973/exeptions-and-logs)
+**Custom exception handling and structured logging system**
+- Service order management REST API
+- Custom exception classes (`ClientNotFoundException`, `OrderNotFoundException`, `InvalidDataException`)
+- Professional error handling patterns and logging best practices
+- Dockerized setup with MySQL
+
+**Tech:** `Java` `Spring Boot` `MySQL` `Docker` `Exception Handling` `Logging`
+
+---
+
+### 🐚 [Bash Scripts - Cybersecurity & Automation](https://github.com/DJAngel973/bash-scripts-learning)
+**10 essential Bash scripts for cybersecurity and system administration**
+- Reconnaissance automation, log analysis, file validation
+- `nmap` wrapper for network scanning automation
+- Text processing with `grep`, `awk`, `cut`
+- Based on Securiters Academy (eJPT path)
+
+**Tech:** `Bash` `Linux` `Nmap` `Grep/Awk` `Automation`
+
+---
+
+### [Touring - OOP Travel System](https://github.com/DJAngel973/Touring-OOP)
+**Object-oriented travel management system**
+- Applied OOP principles (Encapsulation, Inheritance, Polymorphism)
+- Design patterns implementation, modular architecture
+
+**Tech:** `Java` `OOP` `Design Patterns`
 
 ---
 
 ## Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps/Containers
+### DevOps / Containers / CI-CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Cybersecurity
+### Security
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)
@@ -62,43 +124,21 @@ Passionate about secure software development, automation, and defensive security
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## Featured Projects
+## Currently Learning
 
-### [WaterReport - Spring Boot REST API](https://github.com/DJAngel973/WaterReport-SpringBoot-DB)
-**Backend system for water consumption reporting**
--  Built with **Spring Boot** & **MySQL**
--  **Dockerized** database setup
--  RESTful API with full CRUD operations
--  Layered architecture (Controller → Service → Repository)
--  Spring Data JPA for database persistence
-
-**Tech:** `Java` `Spring Boot` `MySQL` `Docker` `Spring Data JPA` `REST API`
-
----
-
-### [Touring - OOP Travel System](https://github.com/DJAngel973/Touring-OOP)
-**Object-oriented travel management system**
--  Applied OOP principles (Encapsulation, Inheritance, Polymorphism)
--  Design patterns implementation
--  Modular architecture
-
-**Tech:** `Java` `OOP` `Design Patterns`
-
----
-
-### [Exceptions & Logs](https://github.com/DJAngel973/exeptions-and-logs)
-**Custom exception handling and logging system**
--  Custom exception classes
--  Logging best practices
--  Error handling patterns
-
-**Tech:** `Java` `Exception Handling` `Logging`
+| What | Where | Status |
+|------|-------|--------|
+| Docker: De cero a experto | Udemy | 🔄 In progress (priority) |
+| eJPT (Junior Penetration Tester) | Securiters Academy — Marta Barrio | 🔄 In progress |
+| Kubernetes | Udemy | ⏳ Pending (after Docker) |
+| DevSecOps practices | Self-study + applied in Secure-Wallet-API | 🔄 In progress |
+| English B1 Intermediate | Duolingo | 🔄 In progress |
+| Software Engineering | Politécnico Grancolombiano (6th semester) | 🔄 In progress |
 
 ---
 
@@ -112,10 +152,10 @@ Passionate about secure software development, automation, and defensive security
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50"/>
@@ -127,7 +167,7 @@ Passionate about secure software development, automation, and defensive security
 
 <div align="center">
 
-*"Software quality lives not just in code, but in how it's communicated"*
+*"Software quality lives not just in code, but in how it's secured and communicated"*
 
 ---
 
