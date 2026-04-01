@@ -5,7 +5,7 @@
 ### Software Engineering Student | Backend Developer | Security-Minded Builder
 
 [![Email](https://img.shields.io/badge/Email-demranz.1%40proton.me-red?style=flat&logo=protonmail)](mailto:demranz.1@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_David_Garzón-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-david-garz%C3%B3n-362a3772/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_David_Garzón-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juandgarzon3/)
 
 </div>
 
