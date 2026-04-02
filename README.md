@@ -29,18 +29,20 @@ Passionate about writing code that is not just functional — but **secure by de
 ## Featured Projects
 
 ### [Secure Wallet API](https://github.com/DJAngel973/Secure-Wallet-API) ⭐ *Main project*
-**Educational portfolio project — applying OWASP Top 10, DevSecOps practices, and secure backend architecture in a real-world financial domain**
+**Backend REST API for a digital wallet system built with a DevSecOps-first approach - security,
+  automation, and resting integrated from day one, not added as an afterthought**
 
 > *Actively under development — focused on learning secure API design, CI/CD automation, and PostgreSQL persistence*
 
-- JWT authentication + refresh token rotation & **2FA/TOTP**
-- **BCrypt** password hashing, rate limiting, brute-force protection
-- Role-based access control (`USER`, `ADMIN`, `MANAGER`)
-- **OWASP Dependency Check** + **CodeQL** on every PR (GitHub Actions CI/CD)
-- ACID-guaranteed transactions with PostgreSQL 16
-- Full audit trail of all sensitive operations
+- JWT authentication with refresh token rotation (15 min expiry)**
+- **BCrypt** strength-12 password hashing + account lockout after 3 fialed attempts (OWASP A07)
+- Role-based access control: `USER` / `ADMIN` / `MANAGER` with deny-by-default policy (OWASP A01)
+- Log injection prevention via input sanitization on all user-controlled log data (OWASP A09)
+- **OWASP Dependency Check** + **CodeQL SAST** on every PR-build fails on CVSS >= 7(GitHub Actions)
+- ACID-guaranteed financial transactions with PostgreSQL 16
+- Full audit trail - soft deletes, no financial data ever deleted
 
-**Tech:** `Java 17` `Spring Boot 3` `Spring Security` `PostgreSQL` `Docker` `GitHub Actions` `OWASP` `CodeQL`
+**Tech:** `Java 17` `Spring Boot 3` `Spring Security` `PostgreSQL 16` `Docker` `GitHub Actions` `OWASP` `CodeQL` `JWT`
 
 ---
 
