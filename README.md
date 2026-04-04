@@ -29,8 +29,8 @@ Passionate about writing code that is not just functional — but **secure by de
 ## Featured Projects
 
 ### [Secure Wallet API](https://github.com/DJAngel973/Secure-Wallet-API) ⭐ *Main project*
-**Backend REST API for a digital wallet system built with a DevSecOps-first approach - security,
-  automation, and resting integrated from day one, not added as an afterthought**
+**Backend REST API for a secure digital wallet system built with a DevSecOps-first approach - security,
+  automation, and testing integrated from day one, not added as an afterthought**
 
 > *Actively under development — focused on learning secure API design, CI/CD automation, and PostgreSQL persistence*
 
@@ -47,7 +47,7 @@ Passionate about writing code that is not just functional — but **secure by de
 ---
 
 ### [WaterReport - Spring Boot REST API](https://github.com/DJAngel973/WaterReport-SpringBoot-DB)
-**Backend system for water consumption reporting**
+**Backend system for water consumption reporting. Educational project with practical focus on database persistence and Docker volumes**
 - Built with **Spring Boot** & **MySQL**, fully **Dockerized**
 - RESTful API with full CRUD operations
 - Layered architecture (Controller → Service → Repository)
@@ -58,20 +58,23 @@ Passionate about writing code that is not just functional — but **secure by de
 ---
 
 ### [Final Project IBM - Spring Boot MVC](https://github.com/DJAngel973/Final-Project-IBM-SpringBoot)
-**Final project from the IBM Java Engineer course**
-- Full MVC architecture with Spring Boot
-- Built as the culmination of the IBM Java Backend curriculum
+**IBM Spring boot MVC final project. User login with role-based authentication (USER/ADMIN)
+  Admin generates quiz questions, users answer existing questions, answers are graded and an average
+  score is calculated. Thymeleaf used to build page structures with HTML**
+- Spring Security for authentication and BCrypt encryption
+- Thymeleaf for HTML page structure and from handling
 
 **Tech:** `Java` `Spring Boot` `MVC` `Maven`
 
 ---
 
 ### [Exceptions & Logs - Service Order API](https://github.com/DJAngel973/exeptions-and-logs)
-**Custom exception handling and structured logging system**
-- Service order management REST API
+**Structure logging system and custom exception handling for a service order management REST API
+  Docker containers for database setup and Spring Boot**
+- REST API for service order management
 - Custom exception classes (`ClientNotFoundException`, `OrderNotFoundException`, `InvalidDataException`)
-- Professional error handling patterns and logging best practices
-- Dockerized setup with MySQL
+- Docker implementation with local volumes for the database
+- Structure log recording
 
 **Tech:** `Java` `Spring Boot` `MySQL` `Docker` `Exception Handling` `Logging`
 
@@ -89,9 +92,10 @@ Passionate about writing code that is not just functional — but **secure by de
 ---
 
 ### [Touring - OOP Travel System](https://github.com/DJAngel973/Touring-OOP)
-**Object-oriented travel management system**
+**Educational object-oriented project. A multi-level game where challenges are randomized math problems
+  Players have 3 lives, can recover a life by passing a level with all correct answers, and each level
+  increases in dificulty**
 - Applied OOP principles (Encapsulation, Inheritance, Polymorphism)
-- Design patterns implementation, modular architecture
 
 **Tech:** `Java` `OOP` `Design Patterns`
 
