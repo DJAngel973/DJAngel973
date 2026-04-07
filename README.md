@@ -13,7 +13,7 @@
 
 ## About Me
 
-**6th semester** Software Engineering student at **Politécnico Grancolombiano**  
+Software Engineering student at **Politécnico Grancolombiano**  
 Backend Developer building **secure systems** with Java, Spring Boot, and Python  
 Passionate about writing code that is not just functional — but **secure by design**
 
