@@ -80,17 +80,6 @@ Passionate about writing code that is not just functional — but **secure by de
 
 ---
 
-### [Bash Scripts - Cybersecurity & Automation](https://github.com/DJAngel973/bash-scripts-learning)
-**10 essential Bash scripts for cybersecurity and system administration**
-- Reconnaissance automation, log analysis, file validation
-- `nmap` wrapper for network scanning automation
-- Text processing with `grep`, `awk`, `cut`
-- Based on Securiters Academy (eJPT path)
-
-**Tech:** `Bash` `Linux` `Nmap` `Grep/Awk` `Automation`
-
----
-
 ### [Touring - OOP Travel System](https://github.com/DJAngel973/Touring-OOP)
 **Educational object-oriented project. A multi-level game where challenges are randomized math problems
   Players have 3 lives, can recover a life by passing a level with all correct answers, and each level
