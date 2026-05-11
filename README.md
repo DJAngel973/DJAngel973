@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Juan Garzón
 
-### Software Engineering Student | Backend Developer | Security-Minded Builder
+### Backend Developer | Security-Minded Builder
 
 [![Email](https://img.shields.io/badge/Email-demranz.1%40proton.me-red?style=flat&logo=protonmail)](mailto:demranz.1@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_David_Garzón-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juandgarzon3/)
@@ -13,16 +13,14 @@
 
 ## About Me
 
-Software Engineering student at **Politécnico Grancolombiano**  
-Backend Developer building **secure systems** with Java, Spring Boot, and Python  
-Passionate about writing code that is not just functional — but **secure by design**
+Software Engineering student passionate about backend development with **Java and kotlin**,  
+currently learning mobile and web development. I focus on building systems that are secure by  
+design, reduccing accidental vulnerabilities as much as possible.
 
-**Career goal:** Backend Developer → DevSecOps Engineer  
-**Security focus:** OWASP, secure coding, JWT, threat modeling  
-**Currently studying:** eJPT certification at **Securiters Academy** (Marta Barrio)  
-**Building:** [Secure-Wallet-API](https://github.com/DJAngel973/Secure-Wallet-API) — portfolio project applying OWASP Top 10 and DevSecOps practices
+I believe security is a foundation, not a feature; that's why I apply OWASP principles, implement
+authentication flows, and integrate security controls directly into CI/CD pipelines from day one.
 
-> *"I don't just write code — I write secure code. Security is not a feature, it's a foundation."*
+My path is oriented toward continuous learning and hands-on practice in DevSecOps, combining strong backend skills with containerization (Docker), Linux environments, and automated security pipelines.
 
 ---
 
