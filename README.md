@@ -83,8 +83,6 @@ My long-term goal is to grow into backend engineering and DevSecOps roles with a
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJAngel973&theme=github_dark)
 
-![Resumen](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJAngel973&theme=github_dark)
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/>
