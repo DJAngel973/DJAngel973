@@ -2,9 +2,8 @@
 
 # 👋 Hi, I'm Juan Garzón
 
-### Backend Developer | Security-Minded Builder
+### Backend Developer | Security-Focused Learner
 
-[![Email](https://img.shields.io/badge/Email-demranz.1%40proton.me-red?style=flat&logo=protonmail)](mailto:demranz.1@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_David_Garzón-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juandgarzon3/)
 
 </div>
@@ -13,14 +12,15 @@
 
 ## About Me
 
-Software Engineering student passionate about backend development with **Java and kotlin**,  
-currently learning mobile and web development. I focus on building systems that are secure by  
-design, reduccing accidental vulnerabilities as much as possible.
+Software Engineering student focused on backend development with Java and Kotlin using Spring Boot.
 
-I believe security is a foundation, not a feature; that's why I apply OWASP principles, implement
-authentication flows, and integrate security controls directly into CI/CD pipelines from day one.
+Currently building projects focused on secure backend architecture, REST APIs, authentication flows, containerization, and development workflows using Docker and GitHub Actions.
 
-My path is oriented toward continuous learning and hands-on practice in DevSecOps, combining strong backend skills with containerization (Docker), Linux environments, and automated security pipelines.
+I enjoy learning about secure software design, OWASP principles, Linux environments, and DevSecOps practices while improving my backend engineering skills through hands-on projects.
+
+I also use AI-assisted development workflows and specialized coding agents to improve productivity, automate repetitive tasks, and accelerate learning while maintaining code review and security awareness during development.
+
+My long-term goal is to grow into backend engineering and DevSecOps roles with a strong focus on cybersecurity and secure system design.
 
 ---
 
@@ -32,7 +32,6 @@ My path is oriented toward continuous learning and hands-on practice in DevSecOp
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend (Basic)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,11 +62,26 @@ My path is oriented toward continuous learning and hands-on practice in DevSecOp
 
 ---
 
+# Featured Interests
+
+- Secure Backend Development
+- Spring Boot APIs
+- Authentication & Authorization
+- Dockerized Applications
+- DevSecOps Learning
+- Linux & Security Tooling
+- OWASP Principles
+- CI/CD Automation
+
+---
+
 ## GitHub Statistics
 
 <div align="center">
 
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DJAngel973&theme=github_dark)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DJAngel973&theme=github_dark)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJAngel973&theme=github_dark)
 
 ![Resumen](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJAngel973&theme=github_dark)
 
