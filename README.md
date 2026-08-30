@@ -12,13 +12,13 @@
 
 ## About Me
 
-Software Engineering student focused on backend development with Java and Kotlin using Spring Boot.
+I'm a Software Engineering student focused on backend development with Java Spring Boot, while expanding my skills in Kotlin.
 
 Currently building projects focused on secure backend architecture, REST APIs, authentication flows, containerization, and development workflows using Docker and GitHub Actions.
 
 I enjoy learning about secure software design, OWASP principles, Linux environments, and DevSecOps practices while improving my backend engineering skills through hands-on projects.
 
-I also use AI-assisted development workflows and specialized coding agents to improve productivity, automate repetitive tasks, and accelerate learning while maintaining code review and security awareness during development.
+I use AI-assisted development tools as part of my workflow for research, debugging, code review, and learning, while maintaining responsability for understanding and validation the code I build.
 
 My long-term goal is to grow into backend engineering and DevSecOps roles with a strong focus on cybersecurity and secure system design.
 
